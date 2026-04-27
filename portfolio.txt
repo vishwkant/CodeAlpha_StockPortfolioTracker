@@ -1,0 +1,6 @@
+Stock Portfolio Report
+-------------------------
+INFY: 1 × $20 = $20
+TSLA: 6 × $250 = $1500
+-------------------------
+Total Portfolio Value: $1520
